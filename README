@@ -1,3 +1,5 @@
+This is a fork of Gource, made with the intent to modify it to work in real time with technologies other than OpenGL, such as the d3.js visualization library. Another goal is to integrate the visualization into a group workflow by instantiating it is a more "dashboard-like" fashion in a so-far imaginary development environment.
+
 
                              Gource
 
